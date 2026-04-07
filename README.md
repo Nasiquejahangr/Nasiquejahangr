@@ -97,20 +97,6 @@ CGC Jhanjeri (Punjab Technical University) | 2023 - 2027
 
 ---
 
-### 🏆 Competitive Programming
-
-<div align="center">
-  
-**LeetCode Stats**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Nasique-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MD-NASIQUE14664/)
-
-<img src="https://leetcard.jacoblin.cool/MD-NASIQUE14664?theme=dark&font=Ubuntu" />
-
-**GeeksforGeeks Stats**  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-Nasique-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nasiquejah5h43)
-
-</div>
-
 ---
 
 ### 🎯 Daily Goals
